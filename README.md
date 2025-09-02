@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tmucato
 - 👀 I’m interested in inprove my knowledge on programing and become Tech Guru!!!
-- 🌱 I’m currently learning DevOps, software development (frontend and backend) and data science  
-- 📫 How to reach me tomasmucato@gmail.com
+- 🌱 I’m currently learning DevOps, software development (frontend and backend) and ai/data science
 
 <!---
 tmucato/tmucato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
