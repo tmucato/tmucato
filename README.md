@@ -3,7 +3,8 @@
 Software and data engineer from Maputo, Mozambique 🇲🇿, with more than a decade of building production systems in banking and public health. I work across full-stack development, data engineering, AI and DevOps.
 #### 🔨 What I've worked on
 
-- 🎓 **MSc in Applied Data Science and AI (OPIT, 2026):** capstone defended at 93/100, an NLP and RAG system that automates Clinical Evaluation Reports for medical devices under EU MDR, using PubMed literature mining with TF-IDF and BioBERT.
+- 🏥 **National health information system ([DigHealth](https://github.com/MISAU-DIS)):** contributed to SIS-H, Mozambique's Ministry of Health hospital information system, building Laravel API endpoints for antenatal care (ANC) dashboards and patient cohort reports, plus API documentation and endpoint access control.
+- 🎓 **MSc in Applied Data Science and AI (OPIT, 2026):** capstone is a RAG platform that helps write Clinical Evaluation Reports for medical devices under EU MDR. It classifies the device to build PubMed searches, ingests articles with open-access PDF retrieval, indexes them in Weaviate for semantic search, extracts device metadata, and drafts the report as a Word document (Flask, Angular, MongoDB, OpenAI, Docker).
 
 #### 🚀 Public projects
 
